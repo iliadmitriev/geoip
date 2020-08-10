@@ -1,4 +1,4 @@
-# geoip
+# geoip cli tool
 
 # install 
 
