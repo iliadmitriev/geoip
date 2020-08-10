@@ -9,7 +9,7 @@ const rl = readline.createInterface({
   terminal: false
 });
 
-const mm = maxmind.open('/Users/dmitriev/Downloads/GeoIP2-City-Europe.mmdb')
+const mm = maxmind.open('GeoIP2-City-Europe.mmdb')
 
 rl.on('line', function(line){
   mm.then((lookup) => {
