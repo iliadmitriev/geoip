@@ -1,0 +1,23 @@
+{
+  "name": "geoip",
+  "version": "1.0.0",
+  "description": "# install",
+  "main": "geoipget.js",
+  "dependencies": {
+    "maxmind": "^4.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iliadmitriev/geoip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iliadmitriev/geoip/issues"
+  },
+  "homepage": "https://github.com/iliadmitriev/geoip#readme"
+}
